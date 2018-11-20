@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "docx-pdf": "^0.0.1",
+    "yargs": "^12.0.5"
+  },
+  "name": "docxtopdf-cli",
+  "description": "Convert .docx file to .pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "Echo \"Nice Test :)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoDanin/DocxToPdf-CLI.git"
+  },
+  "keywords": [
+    "docx",
+    "pdf",
+    "convert"
+  ],
+  "author": "TiagoDanin <TiagoDanin@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiagoDanin/DocxToPdf-CLI/issues"
+  },
+  "homepage": "https://github.com/TiagoDanin/DocxToPdf-CLI#readme"
+}
