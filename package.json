@@ -5,7 +5,7 @@
 		"docxtopdf-cli": "index.js"
 	},
 	"preferGlobal": true,
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Convert .docx file to .pdf",
 	"author": {
 		"name": "TiagoDanin",
