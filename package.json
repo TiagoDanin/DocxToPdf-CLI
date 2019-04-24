@@ -22,7 +22,7 @@
 	],
 	"scripts": {
 		"start": "node index.js",
-		"test": "Echo \"Nice Test :)\""
+		"test": "echo \"Nice Test :)\""
 	},
 	"engines": {
 		"node": ">=8"
