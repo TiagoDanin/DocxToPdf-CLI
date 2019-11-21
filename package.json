@@ -48,7 +48,7 @@
 	],
 	"dependencies": {
 		"docx-pdf": "0.0.1",
-		"yargs": "12.0.5"
+		"yargs": "15.0.2"
 	},
 	"devDependencies": {}
 }
