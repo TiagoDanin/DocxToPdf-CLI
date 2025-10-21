@@ -25,7 +25,7 @@
 		"test": "echo \"Nice Test :)\""
 	},
 	"engines": {
-		"node": ">=8"
+		"node": ">=22.21.0"
 	},
 	"private": false,
 	"repository": {
